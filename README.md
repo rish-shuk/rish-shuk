@@ -4,6 +4,7 @@ I'm a Part II Computer Systems Engineering student at the University of Auckland
 - 📍 Auckland, New Zealand
 - 🎓 Computer Systems Engineering, University of Auckland
 - 📧 Email me at <code>rish.shuk@gmail.com</code>
+- View my <a href="Rishi Shukla - Technical Resume .pdf">Curriculum Vitae</a>
 - Connect with me on <a href="www.linkedin.com/in/rish-shuk">Linkedin</a>
 
 
