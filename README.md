@@ -43,7 +43,6 @@ I'm a Part III Computer Systems Engineering student at the University of Aucklan
 
 <h2>📈 Statistics</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rish-shuk&count_private=true&show_icons=true&theme=dark&hide_border=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=rish-shuk&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 <!---
