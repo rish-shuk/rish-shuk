@@ -2,7 +2,6 @@
 
 > Part III Computer Systems Engineering student at the University of Auckland
 
-- 🎓 Computer Systems Engineering, University of Auckland
 - 📧 Email me at [`rish.shuk@gmail.com`](mailto:rish.shuk@gmail.com)
 - View my [Curriculum Vitae](cv/cv_2023.pdf/)
 - Connect with me on [Linkedin]("www.linkedin.com/in/rish-shuk")
