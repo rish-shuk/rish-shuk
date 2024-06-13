@@ -3,7 +3,7 @@
 > Computer Systems Engineering student at the University of Auckland
 
 - 📧 Email me at [`rish.shuk@gmail.com`](mailto:rish.shuk@gmail.com)
-- View my [Curriculum Vitae](cv/Resume 2024 - Rishi Shukla.pdf/)
+- View my [Curriculum Vitae](cv/Resume_2024_-_Rishi_Shukla.pdf/)
 - Connect with me on [Linkedin]("www.linkedin.com/in/rish-shuk")
 
 <h2>Things I've worked with</h2>
