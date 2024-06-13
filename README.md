@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m `@rish-shuk`!
 
-> Part III Computer Systems Engineering student at the University of Auckland
+> Computer Systems Engineering student at the University of Auckland
 
 - 📧 Email me at [`rish.shuk@gmail.com`](mailto:rish.shuk@gmail.com)
 - View my [Curriculum Vitae](cv/cv_2023.pdf/)
